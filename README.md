@@ -40,4 +40,4 @@ All code is contained in the following notebooks:
 ---
 
 ## 📊 Output Data
-The combined results table is exported to:
+<img width="7665" height="4134" alt="df_results" src="https://github.com/user-attachments/assets/a2600b47-cbc4-4954-b93f-b776f0bf1d2d" />
