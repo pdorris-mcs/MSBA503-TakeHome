@@ -75,6 +75,7 @@ These allow direct, image-by-image comparison.
 ## 📦 Dependencies  
 All required dependencies are listed in `requirements.txt`.
 
+---
 
 ## 📊 Final Output Data
 <img width="7665" height="4134" alt="df_results" src="https://github.com/user-attachments/assets/a2600b47-cbc4-4954-b93f-b776f0bf1d2d" />
